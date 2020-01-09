@@ -1,4 +1,4 @@
-rootProject.name = 'moriEve'
+rootProject.name = 'EveTest'
 include 'EveCore'
 project(':EveCore').projectDir = new File("../EveCore")
 include 'MoriUtil'
