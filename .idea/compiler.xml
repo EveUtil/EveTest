@@ -4,11 +4,5 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="moriEve.EveCore.main" target="1.8" />
-      <module name="moriEve.EveCore.test" target="1.8" />
-      <module name="moriEve.main" target="1.8" />
-      <module name="moriEve.test" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
