@@ -1,0 +1,6 @@
+rootProject.name = 'moriEve'
+include 'EveCore'
+project(':EveCore').projectDir = new File("../EveCore")
+include 'MoriUtil'
+project(':MoriUtil').projectDir = new File("../MoriUtil")
+
