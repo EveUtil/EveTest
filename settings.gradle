@@ -3,4 +3,6 @@ include 'EveCore'
 project(':EveCore').projectDir = new File("../EveCore")
 include 'MoriUtil'
 project(':MoriUtil').projectDir = new File("../MoriUtil")
+include 'EveSql'
+project(':EveSql').projectDir = new File("../EveSql")
 

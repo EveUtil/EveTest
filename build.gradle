@@ -18,6 +18,7 @@ dependencies {
 
     compile(project(':EveCore'))
     compile(project(':MoriUtil'))
+    compile(project(':EveSql'))
 }
 jar {
     manifest {
